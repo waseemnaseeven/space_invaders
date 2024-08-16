@@ -1,9 +1,0 @@
-/Users/waseemnaseeven/Desktop/SpaceInvaders/target/debug/build/clang-sys-2cfc3896b247a87c/build_script_build-2cfc3896b247a87c: /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build.rs /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/macros.rs /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/common.rs /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/dynamic.rs /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/static.rs
-
-/Users/waseemnaseeven/Desktop/SpaceInvaders/target/debug/build/clang-sys-2cfc3896b247a87c/build_script_build-2cfc3896b247a87c.d: /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build.rs /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/macros.rs /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/common.rs /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/dynamic.rs /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/static.rs
-
-/Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build.rs:
-/Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/macros.rs:
-/Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/common.rs:
-/Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/dynamic.rs:
-/Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/build/static.rs:
