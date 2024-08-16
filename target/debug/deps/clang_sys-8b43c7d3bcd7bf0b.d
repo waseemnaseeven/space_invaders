@@ -1,0 +1,14 @@
+/Users/waseemnaseeven/Desktop/space_invaders/target/debug/deps/libclang_sys-8b43c7d3bcd7bf0b.rmeta: /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/lib.rs /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/support.rs /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/link.rs /Users/waseemnaseeven/Desktop/space_invaders/target/debug/build/clang-sys-e860bbcd115033a5/out/macros.rs /Users/waseemnaseeven/Desktop/space_invaders/target/debug/build/clang-sys-e860bbcd115033a5/out/common.rs /Users/waseemnaseeven/Desktop/space_invaders/target/debug/build/clang-sys-e860bbcd115033a5/out/dynamic.rs
+
+/Users/waseemnaseeven/Desktop/space_invaders/target/debug/deps/libclang_sys-8b43c7d3bcd7bf0b.rlib: /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/lib.rs /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/support.rs /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/link.rs /Users/waseemnaseeven/Desktop/space_invaders/target/debug/build/clang-sys-e860bbcd115033a5/out/macros.rs /Users/waseemnaseeven/Desktop/space_invaders/target/debug/build/clang-sys-e860bbcd115033a5/out/common.rs /Users/waseemnaseeven/Desktop/space_invaders/target/debug/build/clang-sys-e860bbcd115033a5/out/dynamic.rs
+
+/Users/waseemnaseeven/Desktop/space_invaders/target/debug/deps/clang_sys-8b43c7d3bcd7bf0b.d: /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/lib.rs /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/support.rs /Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/link.rs /Users/waseemnaseeven/Desktop/space_invaders/target/debug/build/clang-sys-e860bbcd115033a5/out/macros.rs /Users/waseemnaseeven/Desktop/space_invaders/target/debug/build/clang-sys-e860bbcd115033a5/out/common.rs /Users/waseemnaseeven/Desktop/space_invaders/target/debug/build/clang-sys-e860bbcd115033a5/out/dynamic.rs
+
+/Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/lib.rs:
+/Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/support.rs:
+/Users/waseemnaseeven/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/link.rs:
+/Users/waseemnaseeven/Desktop/space_invaders/target/debug/build/clang-sys-e860bbcd115033a5/out/macros.rs:
+/Users/waseemnaseeven/Desktop/space_invaders/target/debug/build/clang-sys-e860bbcd115033a5/out/common.rs:
+/Users/waseemnaseeven/Desktop/space_invaders/target/debug/build/clang-sys-e860bbcd115033a5/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/Users/waseemnaseeven/Desktop/space_invaders/target/debug/build/clang-sys-e860bbcd115033a5/out
