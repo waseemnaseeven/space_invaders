@@ -6,5 +6,5 @@ pub mod shot;
 pub mod invaders;
 
 
-pub const NUM_ROWS: usize = 200;
-pub const NUM_COLS: usize = 202;
+pub const NUM_ROWS: usize = 20;
+pub const NUM_COLS: usize = 80;
